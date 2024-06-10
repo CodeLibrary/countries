@@ -1,5 +1,5 @@
 {
-  "name": "mledoze/countries",
+  "name": "codelibrary/countries",
   "description": "List of world countries in JSON, CSV, XML and Yaml",
   "keywords": [
     "world",
@@ -14,12 +14,15 @@
   "authors": [
     {
       "name": "Mohammed Le Doze"
+    },
+    {
+      "name": "Nikola Zeravcic"
     }
   ],
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/mledoze/countries"
+      "url": "https://github.com/codelibrary/countries"
     }
   ],
   "require": {
